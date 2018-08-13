@@ -1,0 +1,339 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-top: -55px;
+}
+
+header {
+    margin-top: 0;
+    text-align: center;
+    background-color: #048c8a;
+}
+
+header h1 {
+    padding-top: 55px;
+    color: white;
+    font-size: 80px;
+}
+
+header h3 {
+    font-size: 40px;
+    color: #d7be82;
+    padding-bottom: 30px;
+    margin-top: -0px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-container > div {
+
+    font-size: 18px;
+}
+
+.flex-container > .corp {
+    width: 60%;
+}
+
+.flex-container > .espace {
+    width: 10%;
+}
+
+.flex-container > .barreLateral {
+    width: 30%;
+}
+
+.ligneNoir {
+    width: 100%;
+    height: 10px;
+    background-color: black;
+}
+
+.intro {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+
+.intro > .guillemet {
+    width: 20%;
+}
+
+.intro > .paraIntro {
+    width: 80%;
+    padding-left: 8%;
+    font-size: 24px;
+    text-align: justify;
+    padding-top: 55px;
+    margin-bottom: 80px;
+}
+
+.barreLateral {
+    background-color: #048c8a;
+}
+
+.profil {
+    width: 250px;
+    height: 250px;
+}
+
+.guillemetImg {
+    width: 70px;
+    margin-left: 100%;
+}
+
+footer > .flex-containerss {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-containerss > div {
+    font-size: 10px;
+}
+
+.flex-containerss > .portfolio {
+    width: 25%;
+    text-align: right;
+}
+
+.flex-containerss > .linkedin {
+    width: 25%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.flex-containerss > .twitter {
+    width: 25%;
+    text-align: center;
+    margin-left: -5%;
+}
+
+.flex-containerss > .facebook {
+    width: 25%;
+    text-align: left;
+}
+
+.logosocial {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+    background-color: #048c8a;
+}
+
+.profil {
+    margin-left: 30%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.containerContact {
+    margin-left: 7.5%;
+    width: 85%;
+    border-radius: 10px;
+    background-color: #d7be82;
+    padding-top: 5px;
+}
+
+.containerContact h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.containaireInfoContact {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.containaireInfoContact > .iconeContact {
+    font-size: 18px;
+    width: 20%;
+}
+
+.containaireInfoContact > .paraContact {
+    font-size: 18px;
+    width: 80%;
+}
+
+.iconContact {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+.containerOutils {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.outil {
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+.containerOutils h1 {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.progress {
+    background-color: #24aeb5;
+    height: 27px;
+    margin-bottom: 50px;
+}
+
+.progress-bar {
+    background-color: #d7be82;
+    color: black;
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+.imgProfil {
+    margin-bottom: 50px;
+}
+
+
+
+#mailContact {
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 992px) {
+    .flex-container > .corp {
+        width: 100%;
+    }
+    .flex-container > .barreLateral {
+        width: 100%;
+    }
+}
+
+.xp {
+    margin-left: 10%;
+}
+
+.xp h4 {
+    font-size: 42px;
+}
+
+.titreXP {
+    font-size: 24px;
+    margin-left: 10%;
+}
+
+.descriptionXP {
+ font-size: 20px; 
+ margin-left: 15%;
+}
+
+.lieuxXP {
+    font-size: 18px;
+    margin-left: 20%;
+    color: #d7be82;
+}
+
+.experience {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.formations {
+    margin-left: 10%;
+    margin-top: 90px;
+    margin-bottom: 80px;
+}
+
+.formations h4 {
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+
+.formation {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 8%;
+}
+
+.titreFormation {
+    font-size: 24px;
+}
+
+.descriptionFormation {
+    font-size: 20px;
+    margin-left: 7%;
+}
+
+.lieuxFormation {
+    margin-left: 15%;
+    font-size: 18px;
+    color: #d7be82;
+}
+
+.titreXp {
+    display: flex;
+    flex-wrap: wrap;
+}
+.titreXp > h4 {
+    width: 35%;
+}
+.titreXp > hr {
+    width: 20%;
+    letter-spacing: -2px;
+    font-size: 30px;
+    margin-left: 2%;
+    margin-top: 30px;
+    height: 0px;
+    border: 1px solid #d7be82;
+    
+}
+.iconeCorp {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.imgiconcorp {
+    width: 4%;
+}
+#hr1 {
+    margin-left: 15%;
+}
+
+.similaireHR {
+    letter-spacing: -2px;
+}

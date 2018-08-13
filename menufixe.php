@@ -13,7 +13,7 @@
   </head>
   <body style="background-color: gray;">
     <div class="container-fluid" style="margin: 0; padding: 0; width: 100%;">
-      <img src="https://image.ibb.co/cWZo5S/42.png" class="img-fluid" alt="Bureau Yoann DELALOY">
+      <img src="https://image.ibb.co/cWZo5S/42.png" class="img-fluid" width="100%" alt="Bureau Yoann DELALOY">
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   
