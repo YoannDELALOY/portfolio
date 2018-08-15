@@ -32,7 +32,7 @@
             <hr>
             <h3 style="text-shadow: 5px 5px 6px #82576b; text-align: center;">Mes CV</h3>
             <ul>
-                <li><a href="https://image.ibb.co/kx3NRd/CV_Yoann_DELALOY.jpg" title="CV Déveleppement web" target="_blank" style="text-decoration: none; color: black;"><strong>Développement Web</strong></a></li>
+                <li><a href="https://yoann-delaloy.ovh/CV.php" title="CV Déveleppement web" target="_blank" style="text-decoration: none; color: black;"><strong>Développement Web</strong></a></li>
                 <li><a href="https://image.ibb.co/igTQhS/cvcorrig_finance.jpg" title="Cv Trader pour compte propre" target="_blank" style="text-decoration: none; color: black;"><strong>Finance</strong></a></li>
                 <li><a href="https://image.ibb.co/f7ybBc/174.png" title="CV Préparateur de commandes" target="_blank" style="text-decoration: none; color: black;"><strong>Logistique</strong></a></li>
                 <li><a href="https://image.ibb.co/hVpsU7/cvcorrig_BTP.jpg" title="CV BTP" target="_blank" style="text-decoration: none; color: black;"><strong>Batiment/Travaux Publics</strong></a></li>

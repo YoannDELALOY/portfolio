@@ -21,7 +21,7 @@
             <div class="corp">
                 <div class="intro">
                     <div class="guillemet">
-                        <img src="media/Guillemet.jpg" tag="guillemet" class="guillemetImg" />
+                        <img src="https://image.ibb.co/c4PxFp/Guillemet.jpg" tag="guillemet" class="guillemetImg" />
                     </div>
                     
                     <div class="paraIntro">
@@ -31,7 +31,7 @@
                 <div class="xp">
                     <div class="titreXp">
                         <h4><strong>EXPERIENCE</strong></h4>
-                        <hr id="hr1"/><div class="imgiconcorp"><img src="media/icone-depot-candidature.png" tag="iconeXP" class="iconeCorp"/></div><hr>
+                        <hr id="hr1"/><div class="imgiconcorp"><img src="https://image.ibb.co/hWnHFp/icone_depot_candidature.png" tag="iconeXP" class="iconeCorp"/></div><hr>
                     </div>
                     <div class="experiences">
                         <div class="experience" id="xp1">
@@ -74,7 +74,7 @@
                 <div class="formations">
                     <div class="titreXp">
                         <h4><strong>FORMATION</strong></h4>
-                        <hr id="hr1"/><div class="imgiconcorp"><img src="media/icone-dec-bac.png" tag="iconeXP" class="iconeCorp"/></div><hr>
+                        <hr id="hr1"/><div class="imgiconcorp"><img src="https://image.ibb.co/b4Drap/icone_dec_bac.png" tag="iconeXP" class="iconeCorp"/></div><hr>
                     </div>
                     <div class="formation" id="formation1">
                         <h6 class="titreFormation"><strong>Développeur intégrateur en réalisation d'application web</strong></h6>
@@ -91,13 +91,13 @@
             <div class="espace"></div>
             <div class="barreLateral">
                 <div class="imgProfil">
-                    <img src="media/profil.jpg" tag="Image de profil" class="profil" />
+                    <img src="https://image.ibb.co/gLteT9/profil.jpg" tag="Image de profil" class="profil" />
                 </div>
                 <div class="containerContact">
                     <h1 class="titreContact">CONTACT</h1>
                     <div class="containaireInfoContact">
                         <div class="iconeContact">
-                            <img src="media/GPS.png" tag="Icone contact" class="iconContact" />
+                            <img src="https://image.ibb.co/nw2H2J/GPS.png" tag="Icone contact" class="iconContact" />
                         </div>
                         <div class="paraContact">
                             <p>19 bis rue du Faubouurg saint Jean, 45000 Orléans</p>
@@ -105,7 +105,7 @@
                     </div>
                     <div class="containaireInfoContact">
                         <div class="iconeContact">
-                            <img src="media/icons8-t%C3%A9l%C3%A9phone-qui-sonne-100.png" tag="Icone contact" class="iconContact" />
+                            <img src="https://image.ibb.co/cbf4hJ/icons8_t_l_phone_qui_sonne_100.png" tag="Icone contact" class="iconContact" />
                         </div>
                         <div class="paraContact">
                             <p>06.47.34.43.64</p>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="containaireInfoContact" id="mailContact">
                         <div class="iconeContact">
-                            <img src="media/icons8-mail-100.png" tag="Icone contact" class="iconContact" />
+                            <img src="https://image.ibb.co/kox6wd/icons8_mail_100.png" tag="Icone contact" class="iconContact" />
                         </div>
                         <div class="paraContact">
                             <a herf="mailto:yoanndelaloy45@gmail.com">
@@ -224,16 +224,16 @@
         <div class="ligneNoir"></div>
         <div class="flex-containerss">
             <div class="portfolio">
-                <a href="https://www.yoann-delaloy.ovh/" target="_blank" class="lien"><img src="media/paypal512x512.png" tag="Portfolio" class="logosocial"/></a>
+                <a href="https://www.yoann-delaloy.ovh/accueil.php" target="_blank" class="lien"><img src="https://image.ibb.co/dwAR89/paypal512x512.png" tag="Portfolio" class="logosocial"/></a>
             </div>
             <div class="linkedin">
-                <a href="https://www.yoann-delaloy.ovh/" target="_blank" class="lien"><img src="media/Linkedin.png" tag="Linkedin" class="logosocial"/></a>
+                <a href="https://www.linkedin.com/in/yoann-delaloy/" target="_blank" class="lien"><img src="https://image.ibb.co/eBwYo9/Linkedin.png" tag="Linkedin" class="logosocial"/></a>
             </div>
             <div class="twitter">
-                <a href="https://www.yoann-delaloy.ovh/" target="_blank" class="lien"><img src="media/logo-twitter-rond.png" tag="Twitter" class="logosocial"/></a>
+                <a href="https://twitter.com/Delaloy3?lang=fr" target="_blank" class="lien"><img src="https://image.ibb.co/c96NgU/logo_twitter_rond.png" tag="Twitter" class="logosocial"/></a>
             </div>
             <div class="facebook">
-                <a href="https://www.yoann-delaloy.ovh/" target="_blank" class="lien"><img src="media/facebook-logo-rond-S.png" tag="Facebook" class="logosocial"/></a>
+                <a href="https://www.facebook.com/DelaloyYoann/" target="_blank" class="lien"><img src="https://image.ibb.co/cDtDo9/facebook_logo_rond_S.png" tag="Facebook" class="logosocial"/></a>
             </div>
         </div>
     </footer>

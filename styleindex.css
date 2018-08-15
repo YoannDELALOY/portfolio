@@ -1,0 +1,36 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 30%;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 10%;
+  text-align: center;
+  font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 10px 10px 10px black; 
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: red;
+}
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
