@@ -2,6 +2,8 @@ body {
     margin: 0;
     padding: 0;
     margin-top: -55px;
+    font-family: "Times New Roman", serif;
+
 }
 
 header {
@@ -89,6 +91,9 @@ a:hover {
 .profil {
     width: 250px;
     height: 250px;
+    margin-left: 30%;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .guillemetImg {
@@ -138,12 +143,6 @@ footer {
     background-color: #048c8a;
 }
 
-.profil {
-    margin-left: 30%;
-    margin-top: 50px;
-    margin-bottom: 20px;
-}
-
 .containerContact {
     margin-left: 7.5%;
     width: 85%;
@@ -165,18 +164,18 @@ footer {
 }
 
 .containaireInfoContact > .iconeContact {
-    font-size: 18px;
+    font-size: 22px;
     width: 20%;
 }
 
 .containaireInfoContact > .paraContact {
-    font-size: 18px;
+    font-size: 20px;
     width: 80%;
 }
 
 .iconContact {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     padding: 10px;
 }
 
@@ -211,36 +210,6 @@ footer {
 
 .imgProfil {
     margin-bottom: 50px;
-}
-
-
-
-#mailContact {
-    padding-bottom: 50px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media screen and (max-width: 992px) {
-    .flex-container > .corp {
-        width: 100%;
-    }
-    .flex-container > .barreLateral {
-        width: 100%;
-    }
 }
 
 .xp {
@@ -309,13 +278,16 @@ footer {
     flex-wrap: wrap;
 }
 .titreXp > h4 {
-    width: 35%;
+    width: 30%;
 }
-.titreXp > hr {
-    width: 20%;
-    letter-spacing: -2px;
+.titreXps {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+.titreXps > hr {
+    width: 30%;
     font-size: 30px;
-    margin-left: 2%;
     margin-top: 30px;
     height: 0px;
     border: 1px solid #d7be82;
@@ -328,12 +300,120 @@ footer {
 }
 
 .imgiconcorp {
-    width: 4%;
+    width: 70px;
+    padding-left: 10px;
 }
+
 #hr1 {
-    margin-left: 15%;
+    margin-right: 0%;
+}
+
+#hr2 {
+    margin-left: 0%;
 }
 
 .similaireHR {
     letter-spacing: -2px;
 }
+
+
+#mailContact {
+    padding-bottom: 50px;
+}
+
+
+
+@media screen and (max-width: 1600px) {
+    .profil {
+    margin-left: 25%;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .titreXps {
+        width: 60%;
+    }
+    .titreXp > h4 {
+    width: 40%;
+    }
+    .profil {
+    margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .titreXps {
+        width: 50%;
+    }
+    .titreXp > h4 {
+    width: 50%;
+        text-align: center;
+    }
+    .profil {
+    margin-left: 15%;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .titreXps {
+        width: 100%;
+    }
+    .titreXp > h4 {
+    width: 100%;
+    }
+    .flex-container > .corp {
+        width: 100%;
+    }
+    .flex-container > .barreLateral {
+        width: 100%;
+    }
+    .intro > .guillemet {
+        display: none;
+    
+    }
+    .intro > .paraIntro {
+    width: 80%;
+    padding-left: 0%;
+    margin-left: 10%;
+    }
+    .xp {
+    margin-left: 0%;
+    padding-right: 10%;
+    }
+    .formations {
+    margin-left: 0%;
+    padding-right: 10%;
+    }
+    .profil {
+    margin-left: 40%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header h1 {
+        font-size: 50px;
+    }
+    header h3 {
+        font-size: 25px;
+    }
+    .profil {
+    margin-left: 35%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .profil {
+    margin-left: 25%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .profil {
+    margin-left: 15%;
+    }
+}
+@media screen and (max-width: 300px) {
+    .profil {
+    margin-left: 5%;
+    }
+}
+

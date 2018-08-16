@@ -31,7 +31,13 @@
                 <div class="xp">
                     <div class="titreXp">
                         <h4><strong>EXPERIENCE</strong></h4>
-                        <hr id="hr1"/><div class="imgiconcorp"><img src="https://image.ibb.co/hWnHFp/icone_depot_candidature.png" tag="iconeXP" class="iconeCorp"/></div><hr>
+                        <div class="titreXps">
+                        <hr id="hr1"/>
+                        <div class="imgiconcorp">
+                            <img src="https://image.ibb.co/hWnHFp/icone_depot_candidature.png" tag="iconeXP" class="iconeCorp"/>
+                        </div>
+                        <hr id="hr2"/>
+                        </div>
                     </div>
                     <div class="experiences">
                         <div class="experience" id="xp1">
@@ -74,7 +80,13 @@
                 <div class="formations">
                     <div class="titreXp">
                         <h4><strong>FORMATION</strong></h4>
-                        <hr id="hr1"/><div class="imgiconcorp"><img src="https://image.ibb.co/b4Drap/icone_dec_bac.png" tag="iconeXP" class="iconeCorp"/></div><hr>
+                        <div class="titreXps">
+                        <hr id="hr1"/>
+                        <div class="imgiconcorp">
+                            <img src="https://image.ibb.co/b4Drap/icone_dec_bac.png" tag="iconeXP" class="iconeCorp"/>
+                        </div>
+                        <hr id="hr2"/>
+                        </div>
                     </div>
                     <div class="formation" id="formation1">
                         <h6 class="titreFormation"><strong>Développeur intégrateur en réalisation d'application web</strong></h6>
@@ -94,13 +106,13 @@
                     <img src="https://image.ibb.co/gLteT9/profil.jpg" tag="Image de profil" class="profil" />
                 </div>
                 <div class="containerContact">
-                    <h1 class="titreContact">CONTACT</h1>
+                    <h1 class="titreContact"><strong>CONTACT</strong></h1>
                     <div class="containaireInfoContact">
                         <div class="iconeContact">
                             <img src="https://image.ibb.co/nw2H2J/GPS.png" tag="Icone contact" class="iconContact" />
                         </div>
                         <div class="paraContact">
-                            <p>19 bis rue du Faubouurg saint Jean, 45000 Orléans</p>
+                            <p>19 bis rue du Faubourg saint Jean, 45000 Orléans</p>
                         </div>
                     </div>
                     <div class="containaireInfoContact">
@@ -116,14 +128,14 @@
                             <img src="https://image.ibb.co/kox6wd/icons8_mail_100.png" tag="Icone contact" class="iconContact" />
                         </div>
                         <div class="paraContact">
-                            <a herf="mailto:yoanndelaloy45@gmail.com">
-                                <p>yoanndelaloy45@gmail.com</p>
+                            <a href="mailto:yoanndelaloy45@gmail.com?Subject=Hello%20again">
+                                yoanndelaloy45@gmail.com
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="containerOutils">
-                    <h1>OUTILS</h1>
+                    <h1><strong>OUTILS</strong></h1>
                     <div class="outils" id="outil1">
                         <div class="outil">
                             <div class="titreOutil">
